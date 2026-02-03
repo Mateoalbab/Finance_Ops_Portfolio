@@ -53,7 +53,7 @@ I used DAX (Data Analysis Expressions) to create dynamic measures rather than st
 ### Executive P&L Overview
 *Features a "Card UI" design for high-management visibility, distinguishing "Budget" (Dashed Grey) from "Actuals" (Solid Blue).*
 
-![Dashboard Screenshot](./Dashboard_Screenshot.png)
+![Dashboard Screenshot](Outputs/Dashboard_Screenshot.png)
 *(Note: Ensure your image file is named 'Dashboard_Screenshot.png' and is in the root folder of this repo)*
 
 ---
