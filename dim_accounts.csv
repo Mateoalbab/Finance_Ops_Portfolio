@@ -1,9 +1,0 @@
-Account_ID,Account_Name,Category,Sub_Category
-101,Service Revenue,Revenue,Sales
-102,Logistics Fees,Revenue,Fees
-201,Fuel Costs,COGS,Variable
-202,Driver Wages,COGS,Variable
-301,HQ Salaries,OPEX,Fixed
-302,Marketing,OPEX,Fixed
-303,IT Software,OPEX,Fixed
-304,Rent & Utilities,OPEX,Fixed
